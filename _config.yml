@@ -1,0 +1,14 @@
+layout_spectrum: 0.4553191
+color:
+  saturation: 0.5127659
+  brandStrength: 0.5127659
+  lightness: 1
+  brandColors:
+    - '#E2D6C8'
+    - '#FFFFFF'
+    - '#915C4B'
+    - '#404B53'
+    - '#D09A6D'
+  rhythmicContrast: 0.8148936
+typography_spectrum: 0.5319149
+name: My Dreams
